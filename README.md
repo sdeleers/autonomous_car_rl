@@ -5,5 +5,5 @@ More information at http://peacytea.com/machine-learning/autonomous-car-rl-2/
 
 The results can be seen in this video:
 
-[![Results](https://img.youtube.com/vi/CPeUW1vXqR0/0.jpg)](https://www.youtube.com/watch?v=CPeUW1vXqR0)
+[![Results](https://img.youtube.com/vi/CPeUW1vXqR0/maxresdefault.jpg)](https://www.youtube.com/watch?v=CPeUW1vXqR0)
 
