@@ -1,4 +1,6 @@
 # Autonomous Car With Reinforcement Learning
+Project date: 2017
+
 
 Code for teaching a car to drive round a track with reinforcement learning. 
 I used [John Shulman's implementation of TRPO](https://github.com/joschu/modular_rl) to train the network.<br />
